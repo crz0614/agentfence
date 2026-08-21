@@ -1,5 +1,9 @@
 # AgentFence
 
+> **Provenance notice / 来源说明:** This repository is a portfolio mirror of the upstream [dgenio/agentfence](https://github.com/dgenio/agentfence) project. Upstream badges, release packages, installation channels and copyright attribution intentionally remain linked to the original maintainers. This mirror is not presented as original work by Ruozhu Chen.
+
+> 本仓库是上游项目 [dgenio/agentfence](https://github.com/dgenio/agentfence) 的作品集镜像。徽章、发行包、安装渠道和版权归属继续指向原维护者；本镜像不作为陈若竹的原创项目展示。
+
 [![CI](https://github.com/dgenio/agentfence/actions/workflows/ci.yml/badge.svg)](https://github.com/dgenio/agentfence/actions/workflows/ci.yml)
 [![Latest release](https://img.shields.io/github/v/release/dgenio/agentfence?sort=semver)](https://github.com/dgenio/agentfence/releases)
 [![Go version](https://img.shields.io/github/go-mod/go-version/dgenio/agentfence)](go.mod)
